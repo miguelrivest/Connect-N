@@ -11,7 +11,7 @@ The Connect-N game includes the following features:
 - Help and About Information: The game provides access to help and information about the game.
 - Sound Effects: The game includes sound effects for various actions, such as placing a piece, winning, and drawing.
 ## How to Run the Game
-- Ensure you have Java (JDK 17) installed on your system.
+- Ensure you have Java installed on your system.
 - Clone this repository to your desired location.
 - Double click on ConnectNGame.jar to open the frame.
 The Connect-N game window will appear, and you can start playing!
