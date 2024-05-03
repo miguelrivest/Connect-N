@@ -16,7 +16,7 @@ The Connect-N game includes the following features:
 - Double click on ConnectNGame.jar to open the frame (Windows)
 - Run start.sh (Linux/Mac)
 - Run start.bat (Windows Alternative)
-- The Connect-N game window will appear, and you can start playing!
+The Connect-N game window will appear, and you can start playing!
 ## Usage
 - New Game: Select the "New Game" option from the "File" menu to start a new game.
 - Save Game: Select the "Save" option from the "File" menu to save the current game state.
