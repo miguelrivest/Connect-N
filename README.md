@@ -12,8 +12,8 @@ The Connect-N game includes the following features:
 - Sound Effects: The game includes sound effects for various actions, such as placing a piece, winning, and drawing.
 ## How to Run the Game
 - Ensure you have Java (JRE 17+) installed on your system.
-- Install the runnable jar file from the repository.
-- Select the appropriate launcher from the folder depending on your operating system, or double-click the .jar file. (Only works on some systems)
+- Unzip the Connect-N zip folder in your desired location.
+- Run command "java -jar ConnectNFrame.jar" or use the windows launcher (start.bat)
 - **The Connect-N game window will appear, and you can start playing!**
 ## Usage
 - New Game: Select the "New Game" option from the "File" menu to start a new game.
