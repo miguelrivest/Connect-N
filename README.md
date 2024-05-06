@@ -24,3 +24,8 @@ The Connect-N game includes the following features:
 - About: Select the "About" option from the "Info" menu to view information about the game.
 ## Acknowledgements
 This Connect-N game was developed as a part of the Programming 2 course at Heritage College. The game's implementation and design were guided by the course requirements and instructions.
+
+## Licensing
+
+Connect-N Game is open-source software, which means that anyone can view, modify, and distribute the code.
+Feel free to clone the project, make changes to the code as needed, and even suggest improvements.
